@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"            "Airdrop-Trap"
+	"version"         "2.0"
+	"up_date"         "´03.11.17"
+	"author_name"     "Alabama"
+	"author_email"    "gmod.s@web.de"
+}
+
+
+
